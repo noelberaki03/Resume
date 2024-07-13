@@ -1,2 +1,2 @@
 # Resume
-To prove my resume to the public.
+To provide my resume to the public.
